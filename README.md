@@ -1,7 +1,7 @@
 To run app:
 
 ```
-> git clone https://github.com/StephenGrider/React-web-video.git
+> git clone https://github.com/kuracjusz/React-web-video.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
